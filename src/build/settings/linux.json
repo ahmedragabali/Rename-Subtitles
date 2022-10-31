@@ -1,0 +1,6 @@
+{
+    "categories": "Utility;",
+    "description": "This app takes the path to a season folder that have the video files and the subtitle files, then by a click of a button it matches and renames all the subtitle files in the folder in a second.",
+    "author_email": "a.ragab95@gmail.com",
+    "url": "https://github.com/ahmedragabali"
+}
